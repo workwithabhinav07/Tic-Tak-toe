@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/abhinavsharma/Language and lecture with movie./C /Tic-tak-to/main'
+relocations:     []
+...
